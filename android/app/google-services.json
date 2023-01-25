@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "931068643965",
+    "firebase_url": "https://saiful-islam-7baf8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "saiful-islam-7baf8",
+    "storage_bucket": "saiful-islam-7baf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931068643965:android:33e322b8bb0028a1d3ff14",
+        "android_client_info": {
+          "package_name": "com.akaomarfahim.nfbn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931068643965-amlq7gi63lc5eehfvlp2l87ccv3h6fd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD518BZ4PYi6b3l1flZcrkT010_Qo4i0Pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931068643965-amlq7gi63lc5eehfvlp2l87ccv3h6fd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
